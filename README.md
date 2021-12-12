@@ -37,6 +37,9 @@
 </p>  
 
 <a href="https://github.com/devgamon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgamon&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/devgamon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgamon&theme=dracula&hide_langs_below=1" />
 </a>
 
