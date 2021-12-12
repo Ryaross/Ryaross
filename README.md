@@ -36,9 +36,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-<a href="https://github.com/devgamon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgamon&theme=dracula&show_icons=true" />
-</a>
+
 <a href="https://github.com/devgamon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgamon&theme=dracula&hide_langs_below=1" />
 </a>
