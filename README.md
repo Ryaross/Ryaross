@@ -1,4 +1,4 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Gabriel
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Gabriel</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
