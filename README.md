@@ -20,14 +20,12 @@
   <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat-square&labelColor=8B89CC&logo=protonmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 </p>  
 
-<h2>:interrobang: My characteristics</h2>
+<h2>:interrobang: About me</h2>
 
-<br>
 <ul>
-  <li>:gem: </li>
+  <li>:gem: I'm a web/mobile Developer.</li>
   <li>:open_file_folder: I intend to focus more on desktop/mobile applications development.</li>
-  <li>:microphone: I love to rhyme.</li>
-  <li></li>
+  <li>:microphone: I love to rhyme, freestyle is my scream.</li>
   <li>:pushpin: Open for collaborations.</li>
 </ul>
 <br>
