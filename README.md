@@ -40,6 +40,9 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=777BB4&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&labelColor=00000F&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&labelColor=20232A&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&labelColor=20232A&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
