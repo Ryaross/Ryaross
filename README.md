@@ -25,8 +25,8 @@
 <br>
 <ul>
   <li>:gem: </li>
-  <li>:open_file_folder: </li>
-  <li>:microphone:</li>
+  <li>:open_file_folder: I intend to focus more on desktop/mobile applications development.</li>
+  <li>:microphone: I love to rhyme.</li>
   <li></li>
   <li>:pushpin: Open for collaborations.</li>
 </ul>
