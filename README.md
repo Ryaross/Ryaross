@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <a heref="https://gitlab.com/devgamon"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+  <a href="https://gitlab.com/devgamon"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   <a heref="https://github.com/devgamon"></a>
   <a heref="https://github.com/devgamon"></a>
 </p>
